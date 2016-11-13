@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_44c6749105feca20d74f717c4d4db8458d68a41c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_5dfc1a4985c3497532ebdbf151534e3848367572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_10b92eb7c037037999bf415b412c67b653a9e823.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_53dc3656e80fcc0d8f088623c5daaec8c4f6376f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_bddb37860de76bb1485dc6f801735f36af8c6528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_11f6ca6103b7258e0941675fdb32895053988dfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_fe7921815a5a0aa9a6e5f7bb868c58a26b96b536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_61063e51c939190e06dde33f3042fff245d63340.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_ba68271f6c0d001708e31bc211401023cba86fa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_663f99a08784431092647c835834fdfa06fa45f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_6ffb1fa9fdafdf01eb3470ae73f59ddfd2fc7b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_fca528b8d924f52fb453abbf2375054813dbd7fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c07fb99b729345908dda75fadbbf882e300631ff">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_34c8f72e922653fa2d2e6a5936f183c240559fea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_25b7f4038a3a5ff3787676df52357e122cec1bca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5d0fc09156993a63eb117a96bfd698f51572c0da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_800b068bffc55960e2c4c5f9d6217bff0e2eef19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_c53e4d99567d4d839a2dcc6f32e905e888e775ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8eee51339cbb0bf7f3692d8879de51b4546b388f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e3c7e8ff9f476d0d93ee7b046fbe8037a2b822c0">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-v13-24.2.1_e5d9dff7f4e09688f493c01823b8d33c807007e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/kitamurayouhei/Documents/dev/git/android-testing/ui/espresso/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5d1f0de26357e51fcb4e5d471350773fb3a3f576.jar" />
+    </item>
+
+</items>
